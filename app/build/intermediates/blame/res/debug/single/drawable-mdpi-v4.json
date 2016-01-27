@@ -1,0 +1,826 @@
+[
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__textfield_search_right_default_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__menu_dropdown_panel_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_share_pack_holo_light.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__cab_background_bottom_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_pressed_holo_light.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_cab_done_holo_dark.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_cab_done_holo_light.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_selector_disabled_holo_light.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_ab_focused_holo_light.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_bottom_solid_dark_holo.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_bottom_solid_light_holo.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__cab_background_top_holo_light.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__textfield_search_default_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_pressed_holo_light.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_view_as_list.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/drawable-mdpi/ic_action_view_as_list.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_longpressed_holo.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_clear_search_api_disabled_holo_light.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_bottom_transparent_dark_holo.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_clear_search_api_holo_light.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_bottom_solid_inverse_holo.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_bottom_solid_inverse_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_menu_share_holo_dark.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__textfield_search_right_default_holo_light.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_clear_normal.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_clear_normal.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_bottom_transparent_light_holo.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_go.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_go.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__progress_primary_holo_light.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__progress_primary_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__btn_cab_done_focused_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__btn_cab_done_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__menu_dropdown_panel_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__cab_background_bottom_holo_light.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__tab_selected_focused_holo.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_ab_disabled_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_selector_disabled_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_warning.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/drawable-mdpi/ic_action_warning.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_48_inner_holo.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_48_inner_holo.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_overflow.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/drawable-mdpi/ic_action_overflow.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__textfield_search_selected_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_bottom_solid_light_holo.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_ab_disabled_holo_light.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__btn_cab_done_focused_holo_light.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__btn_cab_done_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_focused_holo.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_stacked_solid_light_holo.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_ab_pressed_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_voice_search_api_holo_light.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__btn_cab_done_pressed_holo_light.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__btn_cab_done_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_stacked_solid_dark_holo.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_divider_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__progress_primary_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__progress_primary_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_ab_default_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__progress_secondary_holo_light.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__progress_secondary_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_file.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/drawable-mdpi/ic_file.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_clear_search_api_disabled_holo_light.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_ab_pressed_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_commit_search_api_holo_dark.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_ab_back_holo_dark.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_back.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/drawable-mdpi/ic_action_back.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__progress_primary_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__progress_primary_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_upload.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/drawable-mdpi/ic_action_upload.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__progress_bg_holo_light.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__progress_bg_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_search.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_search.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_activated_holo.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_activated_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__textfield_search_selected_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_bottom_transparent_light_holo.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__menu_dropdown_panel_holo_light.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__btn_cab_done_pressed_holo_light.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__btn_cab_done_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_stacked_solid_light_holo.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_go.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_go.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_person.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/drawable-mdpi/ic_action_person.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_solid_light_holo.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_search.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_search.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__toast_frame.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__toast_frame.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_voice_search.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_voice_search.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_cab_done_holo_dark.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__btn_cab_done_default_holo_light.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__btn_cab_done_default_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__progress_bg_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__progress_bg_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_menu_share_holo_light.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_back.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/drawable-mdpi/ic_action_back.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__textfield_search_right_selected_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__tab_selected_holo.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_go_search_api_holo_light.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_commit_search_api_holo_dark.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_solid_shadow_holo.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_solid_shadow_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_cancel.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/drawable-mdpi/ic_action_cancel.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_search_api_holo_light.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__btn_cab_done_pressed_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__btn_cab_done_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__tab_selected_focused_holo.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_divider_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_chooser.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/drawable-mdpi/ic_chooser.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_cab_done_holo_light.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_focused_holo.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_pressed_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_ab_focused_holo_light.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_warning.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/drawable-mdpi/ic_action_warning.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_ab_back_holo_light.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_commit_search_api_holo_light.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_solid_light_holo.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_bottom_solid_inverse_holo.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_bottom_solid_inverse_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_selector_disabled_holo_light.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_search_api_holo_light.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__progress_bg_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__progress_bg_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__btn_cab_done_default_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__btn_cab_done_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_ab_disabled_holo_light.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_share_pack_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_bottom_solid_dark_holo.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_bottom_transparent_dark_holo.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_folder.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/drawable-mdpi/ic_folder.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__textfield_search_selected_holo_light.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_48_outer_holo.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_48_outer_holo.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_download.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/drawable-mdpi/ic_action_download.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_longpressed_holo.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__progress_bg_holo_light.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__progress_bg_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_solid_dark_holo.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_transparent_dark_holo.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_ab_default_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__textfield_search_right_selected_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_ab_default_holo_light.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_voice_search_api_holo_light.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__cab_background_top_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_divider_holo_light.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_voice_search.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_voice_search.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_divider_holo_light.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_go_search_api_holo_light.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_clear_normal.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_clear_normal.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__progress_secondary_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__progress_secondary_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__textfield_search_right_selected_holo_light.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__btn_cab_done_focused_holo_light.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__btn_cab_done_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_48_outer_holo.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_48_outer_holo.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__progress_secondary_holo_light.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__progress_secondary_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_stacked_transparent_dark_holo.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_ab_back_holo_light.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__tab_selected_pressed_holo.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_solid_dark_holo.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_overflow.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/drawable-mdpi/ic_action_overflow.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_share_pack_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_ab_default_holo_light.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_download.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/drawable-mdpi/ic_action_download.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_file.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/drawable-mdpi/ic_file.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__textfield_search_default_holo_light.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_stop.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/drawable-mdpi/ic_action_stop.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__toast_frame.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__toast_frame.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_person.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/drawable-mdpi/ic_action_person.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_share.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/drawable-mdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_clear_search_api_holo_light.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_clear_disabled.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_clear_disabled.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__tab_selected_holo.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_ab_pressed_holo_light.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__textfield_search_right_default_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_transparent_light_holo.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_ab_focused_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_stop.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/drawable-mdpi/ic_action_stop.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_ab_disabled_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_refresh.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/drawable-mdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_48_inner_holo.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_48_inner_holo.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_pressed_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__btn_cab_done_default_holo_light.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__btn_cab_done_default_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_ab_pressed_holo_light.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_menu_share_holo_dark.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_transparent_light_holo.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_solid_shadow_holo.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_solid_shadow_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__tab_unselected_pressed_holo.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__textfield_search_selected_holo_light.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__menu_dropdown_panel_holo_light.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_transparent_dark_holo.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__btn_cab_done_pressed_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__btn_cab_done_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__tab_unselected_pressed_holo.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_upload.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/drawable-mdpi/ic_action_upload.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_network_wifi.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/drawable-mdpi/ic_action_network_wifi.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_stacked_solid_dark_holo.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_ab_back_holo_dark.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_clear_disabled.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_clear_disabled.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__textfield_search_default_holo_light.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__progress_secondary_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__progress_secondary_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__cab_background_bottom_holo_light.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__progress_primary_holo_light.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__progress_primary_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_stacked_transparent_light_holo.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_menu_share_holo_light.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_share_pack_holo_light.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_commit_search_api_holo_light.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_chooser.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/drawable-mdpi/ic_chooser.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__tab_selected_pressed_holo.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_selector_disabled_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_folder.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/drawable-mdpi/ic_folder.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_stacked_transparent_dark_holo.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_view_as_list.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/drawable-mdpi/ic_action_view_as_list.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__btn_cab_done_focused_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__btn_cab_done_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_ab_focused_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__textfield_search_right_default_holo_light.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_refresh.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/drawable-mdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_cancel.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/drawable-mdpi/ic_action_cancel.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_share.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/drawable-mdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__textfield_search_right_selected_holo_light.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__btn_cab_done_default_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__btn_cab_done_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__cab_background_top_holo_light.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_activated_holo.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_activated_holo.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__cab_background_bottom_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__textfield_search_default_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_network_wifi.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/drawable-mdpi/ic_action_network_wifi.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__cab_background_top_holo_dark.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_stacked_transparent_light_holo.9.png",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_stacked_transparent_light_holo.9.png"
+    }
+]

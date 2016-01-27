@@ -1,0 +1,222 @@
+[
+    {
+        "outputFile": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 406
+                },
+                "from": {
+                    "file": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 341,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 411,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 558
+                },
+                "from": {
+                    "file": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 5,
+                        "startOffset": 183,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 563,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 748
+                },
+                "from": {
+                    "file": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 753,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 950
+                },
+                "from": {
+                    "file": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 368,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 565
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 406
+                },
+                "from": {
+                    "file": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 341,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 411,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 558
+                },
+                "from": {
+                    "file": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 5,
+                        "startOffset": 183,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 563,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 748
+                },
+                "from": {
+                    "file": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 753,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 950
+                },
+                "from": {
+                    "file": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 368,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 565
+                    }
+                }
+            }
+        ]
+    }
+]

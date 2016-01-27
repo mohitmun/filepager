@@ -1,0 +1,17 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme for API 7+. This theme completely replaces
+        AppBaseTheme from res/values/styles.xml on API 7+ devices.
+    -->
+     <style name="MyTheme" parent="Theme.Sherlock.Light">
+        <item name="actionBarStyle">@style/MyActionBar</item>
+    </style>
+
+    <style name="MyActionBar" parent="Widget.Sherlock.Light.ActionBar">
+       <item name="background">#084387</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+   
+
+</resources>

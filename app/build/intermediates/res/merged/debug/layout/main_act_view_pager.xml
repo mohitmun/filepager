@@ -1,0 +1,22 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/homepage"
+    >
+    <android.support.v4.view.ViewPager    android:id="@+id/pager"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    >
+
+           <android.support.v4.view.PagerTitleStrip
+              android:id="@+id/pager_title_strip"
+              android:layout_width="match_parent"
+              android:layout_height="20dp"
+              android:layout_gravity="top"
+              android:background="#162a56"
+              android:textColor="#fff"
+              android:textSize="14dp" />
+ 
+    </android.support.v4.view.ViewPager>
+
+</FrameLayout>

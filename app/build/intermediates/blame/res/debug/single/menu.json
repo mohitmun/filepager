@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/menu/file_manager_activity.xml",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/menu/file_manager_activity.xml"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/menu/file_type_selection.xml",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/menu/file_type_selection.xml"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/menu/file_type_selection.xml",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/menu/file_type_selection.xml"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/menu/file_manager_activity.xml",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/menu/file_manager_activity.xml"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/menu/main.xml"
+    }
+]

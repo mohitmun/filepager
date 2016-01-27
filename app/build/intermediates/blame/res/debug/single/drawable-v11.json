@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/drawable-v11/abs__progress_medium_holo.xml",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-v11/abs__progress_medium_holo.xml"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/drawable-v11/abs__progress_medium_holo.xml",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-v11/abs__progress_medium_holo.xml"
+    }
+]

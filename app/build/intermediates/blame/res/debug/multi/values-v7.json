@@ -1,0 +1,96 @@
+[
+    {
+        "outputFile": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/values-v7/values-v7.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/values-v7/styles.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 377,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 240,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 367
+                },
+                "from": {
+                    "file": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/values-v7/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 5,
+                        "startOffset": 240,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 369
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/values-v7/values-v7.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/values-v7/styles.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 377,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 240,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 367
+                },
+                "from": {
+                    "file": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/values-v7/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 5,
+                        "startOffset": 240,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 369
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+     android:key="key_general"
+     android:title="General"
+
+     >  
+      <com.filepager.settings.FilePickerPreference
+                        android:key="key_setdirectory"
+                        android:title="@string/set_directory"
+                        
+                        android:order="1000"
+                        android:defaultValue=""
+                        android:choiceMode="singleChoice"
+                        android:positiveButtonText="@string/ok"
+                        android:negativeButtonText="@string/cancel"
+                        />
+     <CheckBoxPreference
+        android:key="key_service"
+        android:title="Service"
+        android:summary="Keep foreground sevice on Exit"
+        android:defaultValue="true" />
+   
+     
+       <CheckBoxPreference
+        android:key="key_showmyprofile"
+        android:title="My Profile"
+        android:summary="Show my name in Friends on network"
+        android:defaultValue="true" />
+
+     
+     <!-- 
+      <com.filepager.settings.CustomListPreference
+         android:dialogTitle="Select Location"
+         android:title="Directory"
+         android:key="key_directory"
+         />
+     
+      -->
+  </PreferenceCategory>
+  
+ <PreferenceCategory
+          android:key="key_account"
+     android:title="Account"
+     
+     >
+ <EditTextPreference
+         android:dialogTitle="First Name"
+         android:positiveButtonText="@string/ok"
+         android:negativeButtonText="@string/cancel"
+         android:key="key_firstname"
+         android:title="First Name"
+         />
+     <EditTextPreference
+         android:dialogTitle="Last Name"
+         android:positiveButtonText="@string/ok"
+         android:negativeButtonText="@string/cancel"
+         android:key="key_lastname"
+         android:title="Last Name"
+         />
+ </PreferenceCategory>
+  <PreferenceCategory
+     android:key="key_filemanager"
+     android:title="File Viewer"
+
+     >  
+     
+     <CheckBoxPreference
+        android:key="key_showhiddenfiles"
+        android:title="Show Hidden Files"
+        
+        android:defaultValue="false" />
+   
+     
+
+  </PreferenceCategory>
+    
+ 
+</PreferenceScreen>

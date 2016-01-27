@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.filepager.main"
+    android:versionCode="18"
+    android:versionName="1.6.2" >
+
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.INTERNET" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" >
+    </uses-permission>
+<uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+  
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        
+android:theme="@style/MyTheme" 
+            android:name="com.filepager.main.MyApp"
+        >
+        <activity 
+            android:name="com.filepager.main.ConnectionDialog"
+            android:theme="@style/MyTransparentTheme"
+            android:excludeFromRecents="true"
+            >
+            
+        </activity>
+        <activity
+            android:name="com.filepager.main.MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask" >
+         
+            <intent-filter>
+        <action android:name="android.intent.action.SEND" />
+        <category android:name="android.intent.category.DEFAULT" />
+        <data android:mimeType="*/*" />
+    </intent-filter>
+  <!-- <intent-filter>
+        <action android:name="android.intent.action.SEND_MULTIPLE" />
+        <category android:name="android.intent.category.DEFAULT" />
+        <data android:mimeType="*/*" />
+    </intent-filter> -->
+            
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.filepager.afilechooser.FileChooserActivity" >
+        </activity>
+        
+        <activity android:name="com.filepager.main.WifiActivity">
+        </activity>
+
+        <activity android:name="com.filepager.main.Start" >
+        </activity>
+        <activity android:name="com.filepager.settings.SettingsActivity" >
+        </activity>
+        
+        <activity android:name="com.filepager.main.FileSearchActivity" >
+        </activity>
+        <service android:name="com.filepager.udp.MasterService" >
+        </service>
+ <receiver android:name="com.filepager.sql.MediaStoreUpdateReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_MOUNTED" >
+                </action>
+            </intent-filter>
+        </receiver>
+        </application>
+
+</manifest>

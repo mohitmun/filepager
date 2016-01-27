@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/xml/prefs.xml",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/xml/prefs.xml"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/xml/prefs.xml",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/xml/prefs.xml"
+    },
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/xml/mimetypes.xml",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/src/main/res/xml/mimetypes.xml"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/xml/mimetypes.xml",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/src/main/res/xml/mimetypes.xml"
+    }
+]

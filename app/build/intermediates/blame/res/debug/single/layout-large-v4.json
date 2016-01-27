@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/res/merged/debug/layout-large-v4/abs__action_mode_close_item.xml",
+        "source": "/home/baldor/Desktop/UntitledFolder/mohit/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout-large/abs__action_mode_close_item.xml"
+    },
+    {
+        "merged": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/res/merged/debug/layout-large-v4/abs__action_mode_close_item.xml",
+        "source": "/home/baldor/Desktop/google-services/android/FileBeamer/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout-large/abs__action_mode_close_item.xml"
+    }
+]

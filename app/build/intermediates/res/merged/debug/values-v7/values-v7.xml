@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyActionBar" parent="Widget.Sherlock.Light.ActionBar">
+       <item name="background">#084387</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="MyTheme" parent="Theme.Sherlock.Light">
+        <item name="actionBarStyle">@style/MyActionBar</item>
+    </style>
+</resources>

@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+  <item
+        android:id="@+id/select_audio"
+        android:orderInCategory="100"
+        
+        android:showAsAction="never"
+        android:title="Audio"/>
+  <item
+        android:id="@+id/select_image"
+        android:orderInCategory="100"
+        
+        android:showAsAction="never"
+        android:title="Image"/>
+   <item
+        android:id="@+id/select_video"
+        android:orderInCategory="100"
+        
+        android:showAsAction="never"
+        android:title="Video"/>
+   <item
+        android:id="@+id/select_apps"
+        android:orderInCategory="100"
+        
+        android:showAsAction="never"
+        android:title="Applications"/>
+ 
+  </menu>
